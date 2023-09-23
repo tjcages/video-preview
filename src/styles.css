@@ -15,4 +15,6 @@ body,
 body {
   color: white;
   user-select: none;
+
+  cursor: none !important;
 }
